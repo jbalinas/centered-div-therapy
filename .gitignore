@@ -47,6 +47,9 @@ coverage/
 # Other files
 *.tgz
 *.lock
+<<<<<<< HEAD
 
 node_modules/.cache/
 
+=======
+>>>>>>> 8e7b5097 (Update .gitignore and remove unnecessary files)
