@@ -47,3 +47,6 @@ coverage/
 # Other files
 *.tgz
 *.lock
+
+node_modules/.cache/
+
